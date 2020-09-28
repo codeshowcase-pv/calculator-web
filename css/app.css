@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+}
+
+button:focus {
+    outline: none;
+    border: none;
+}
+
+.app{
+    width: 346px;
+    min-height: 760px;
+    max-height: 850px;
+}
